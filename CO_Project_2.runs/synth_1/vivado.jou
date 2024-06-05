@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Jun  5 16:02:44 2024
+# Process ID: 18324
+# Current directory: C:/Users/dengkaixuan/vivado_project/CO_Project_2/CO_Project_2.runs/synth_1
+# Command line: vivado.exe -log CPU.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CPU.tcl
+# Log file: C:/Users/dengkaixuan/vivado_project/CO_Project_2/CO_Project_2.runs/synth_1/CPU.vds
+# Journal file: C:/Users/dengkaixuan/vivado_project/CO_Project_2/CO_Project_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source CPU.tcl -notrace
